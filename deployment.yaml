@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: wisperlink
-        image: arjunjnair12/wisperlink:d03bcedb18bba119c177c47a5e6b6179ddf82c64
+        image: arjunjnair12/wisperlink:7236443e239e4d809ac4d8ca8af263246cdde3d9
         ports:
         - containerPort: 3000
